@@ -1,0 +1,12 @@
+# Node
+node_modules/
+
+# Python virtual envs
+.venv/
+venv/
+env/
+
+# Misc
+__pycache__/
+*.pyc
+.DS_Store
